@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/clr:oldSyntax'
+  bmp.cpp
+bmp.cpp(69): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+cl : Command line warning D9002: ignoring unknown option '/clr:oldSyntax'
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+C:\Users\grcomerce\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp(1): fatal error C1190: managed targeted code requires a '/clr' option
