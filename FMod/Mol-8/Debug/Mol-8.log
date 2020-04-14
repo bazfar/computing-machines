@@ -1,0 +1,4 @@
+﻿cl : ligne de commande warning D9035: l'option 'Gm' est déconseillée et sera supprimée dans une version ultérieure
+  Mol-8.cpp
+C:\Users\HP\Desktop\CWM\FMod\Mol-8\Mol-8.cpp(26,61): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Mol-8.vcxproj -> C:\Users\HP\Desktop\CWM\FMod\Debug\Mol-8.exe
