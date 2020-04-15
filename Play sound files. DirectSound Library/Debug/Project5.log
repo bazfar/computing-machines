@@ -1,0 +1,4 @@
+﻿  Play WAV.cpp
+C:\Users\HP\Desktop\Play WAV\targetver.h(1,1): warning C4821: Impossible de déterminer le type d'encodage Unicode, enregistrez le fichier avec la signature (BOM)
+C:\Users\HP\Desktop\Play WAV\Play WAV.cpp(87,11): warning C4566: le caractère représenté par le nom de caractère universel '\u0433' ne peut pas être représenté dans la page de codes actuelle (1252)
+  Project5.vcxproj -> C:\Users\HP\source\repos\Project5\Debug\Project5.exe
